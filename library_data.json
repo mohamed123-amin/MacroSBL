@@ -1,0 +1,1434 @@
+{
+    "books": [
+        {
+            "title": "The Atlas of Amber Skies",
+            "author": "Mira Ashford",
+            "isbn": "9780000000019",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Atlas of Amber Skies",
+            "author": "Omar Bellamy",
+            "isbn": "9780000000026",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Atlas of Amber Skies",
+            "author": "Lina Corbett",
+            "isbn": "9780000000033",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Atlas of Amber Skies",
+            "author": "Samir Daven",
+            "isbn": "9780000000040",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Atlas of Amber Skies",
+            "author": "Nora Ellery",
+            "isbn": "9780000000057",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Atlas of Amber Skies",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000000064",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Atlas of Amber Skies",
+            "author": "Talia Greer",
+            "isbn": "9780000000071",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Atlas of Amber Skies",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000000088",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Atlas of Amber Skies",
+            "author": "Amira Lark",
+            "isbn": "9780000000095",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Atlas of Amber Skies",
+            "author": "Rami Vale",
+            "isbn": "9780000000101",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Clockwork Garden",
+            "author": "Mira Ashford",
+            "isbn": "9780000000118",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Clockwork Garden",
+            "author": "Omar Bellamy",
+            "isbn": "9780000000125",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Clockwork Garden",
+            "author": "Lina Corbett",
+            "isbn": "9780000000132",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Clockwork Garden",
+            "author": "Samir Daven",
+            "isbn": "9780000000149",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Clockwork Garden",
+            "author": "Nora Ellery",
+            "isbn": "9780000000156",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Clockwork Garden",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000000163",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Clockwork Garden",
+            "author": "Talia Greer",
+            "isbn": "9780000000170",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Clockwork Garden",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000000187",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Clockwork Garden",
+            "author": "Amira Lark",
+            "isbn": "9780000000194",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Clockwork Garden",
+            "author": "Rami Vale",
+            "isbn": "9780000000200",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Cartographer's Lantern",
+            "author": "Mira Ashford",
+            "isbn": "9780000000217",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Cartographer's Lantern",
+            "author": "Omar Bellamy",
+            "isbn": "9780000000224",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Cartographer's Lantern",
+            "author": "Lina Corbett",
+            "isbn": "9780000000231",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Cartographer's Lantern",
+            "author": "Samir Daven",
+            "isbn": "9780000000248",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Cartographer's Lantern",
+            "author": "Nora Ellery",
+            "isbn": "9780000000255",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Cartographer's Lantern",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000000262",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Cartographer's Lantern",
+            "author": "Talia Greer",
+            "isbn": "9780000000279",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Cartographer's Lantern",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000000286",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Cartographer's Lantern",
+            "author": "Amira Lark",
+            "isbn": "9780000000293",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Cartographer's Lantern",
+            "author": "Rami Vale",
+            "isbn": "9780000000309",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Beneath the Quiet Mountain",
+            "author": "Mira Ashford",
+            "isbn": "9780000000316",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Beneath the Quiet Mountain",
+            "author": "Omar Bellamy",
+            "isbn": "9780000000323",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Beneath the Quiet Mountain",
+            "author": "Lina Corbett",
+            "isbn": "9780000000330",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Beneath the Quiet Mountain",
+            "author": "Samir Daven",
+            "isbn": "9780000000347",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Beneath the Quiet Mountain",
+            "author": "Nora Ellery",
+            "isbn": "9780000000354",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Beneath the Quiet Mountain",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000000361",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Beneath the Quiet Mountain",
+            "author": "Talia Greer",
+            "isbn": "9780000000378",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Beneath the Quiet Mountain",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000000385",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Beneath the Quiet Mountain",
+            "author": "Amira Lark",
+            "isbn": "9780000000392",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Beneath the Quiet Mountain",
+            "author": "Rami Vale",
+            "isbn": "9780000000408",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Last Orchard",
+            "author": "Mira Ashford",
+            "isbn": "9780000000415",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Last Orchard",
+            "author": "Omar Bellamy",
+            "isbn": "9780000000422",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Last Orchard",
+            "author": "Lina Corbett",
+            "isbn": "9780000000439",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Last Orchard",
+            "author": "Samir Daven",
+            "isbn": "9780000000446",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Last Orchard",
+            "author": "Nora Ellery",
+            "isbn": "9780000000453",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Last Orchard",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000000460",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Last Orchard",
+            "author": "Talia Greer",
+            "isbn": "9780000000477",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Last Orchard",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000000484",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Last Orchard",
+            "author": "Amira Lark",
+            "isbn": "9780000000491",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Last Orchard",
+            "author": "Rami Vale",
+            "isbn": "9780000000507",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Map of Hidden Rivers",
+            "author": "Mira Ashford",
+            "isbn": "9780000000514",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Map of Hidden Rivers",
+            "author": "Omar Bellamy",
+            "isbn": "9780000000521",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Map of Hidden Rivers",
+            "author": "Lina Corbett",
+            "isbn": "9780000000538",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Map of Hidden Rivers",
+            "author": "Samir Daven",
+            "isbn": "9780000000545",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Map of Hidden Rivers",
+            "author": "Nora Ellery",
+            "isbn": "9780000000552",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Map of Hidden Rivers",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000000569",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Map of Hidden Rivers",
+            "author": "Talia Greer",
+            "isbn": "9780000000576",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Map of Hidden Rivers",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000000583",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Map of Hidden Rivers",
+            "author": "Amira Lark",
+            "isbn": "9780000000590",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Map of Hidden Rivers",
+            "author": "Rami Vale",
+            "isbn": "9780000000606",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Glass Observatory",
+            "author": "Mira Ashford",
+            "isbn": "9780000000613",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Glass Observatory",
+            "author": "Omar Bellamy",
+            "isbn": "9780000000620",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Glass Observatory",
+            "author": "Lina Corbett",
+            "isbn": "9780000000637",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Glass Observatory",
+            "author": "Samir Daven",
+            "isbn": "9780000000644",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Glass Observatory",
+            "author": "Nora Ellery",
+            "isbn": "9780000000651",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Glass Observatory",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000000668",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Glass Observatory",
+            "author": "Talia Greer",
+            "isbn": "9780000000675",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Glass Observatory",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000000682",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Glass Observatory",
+            "author": "Amira Lark",
+            "isbn": "9780000000699",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Glass Observatory",
+            "author": "Rami Vale",
+            "isbn": "9780000000705",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Letters from the Blue Coast",
+            "author": "Mira Ashford",
+            "isbn": "9780000000712",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Letters from the Blue Coast",
+            "author": "Omar Bellamy",
+            "isbn": "9780000000729",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Letters from the Blue Coast",
+            "author": "Lina Corbett",
+            "isbn": "9780000000736",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Letters from the Blue Coast",
+            "author": "Samir Daven",
+            "isbn": "9780000000743",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Letters from the Blue Coast",
+            "author": "Nora Ellery",
+            "isbn": "9780000000750",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Letters from the Blue Coast",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000000767",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Letters from the Blue Coast",
+            "author": "Talia Greer",
+            "isbn": "9780000000774",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Letters from the Blue Coast",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000000781",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Letters from the Blue Coast",
+            "author": "Amira Lark",
+            "isbn": "9780000000798",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Letters from the Blue Coast",
+            "author": "Rami Vale",
+            "isbn": "9780000000804",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Memory of Snow",
+            "author": "Mira Ashford",
+            "isbn": "9780000000811",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Memory of Snow",
+            "author": "Omar Bellamy",
+            "isbn": "9780000000828",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Memory of Snow",
+            "author": "Lina Corbett",
+            "isbn": "9780000000835",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Memory of Snow",
+            "author": "Samir Daven",
+            "isbn": "9780000000842",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Memory of Snow",
+            "author": "Nora Ellery",
+            "isbn": "9780000000859",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Memory of Snow",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000000866",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Memory of Snow",
+            "author": "Talia Greer",
+            "isbn": "9780000000873",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Memory of Snow",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000000880",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Memory of Snow",
+            "author": "Amira Lark",
+            "isbn": "9780000000897",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Memory of Snow",
+            "author": "Rami Vale",
+            "isbn": "9780000000903",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Season of Small Wonders",
+            "author": "Mira Ashford",
+            "isbn": "9780000000910",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Season of Small Wonders",
+            "author": "Omar Bellamy",
+            "isbn": "9780000000927",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Season of Small Wonders",
+            "author": "Lina Corbett",
+            "isbn": "9780000000934",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Season of Small Wonders",
+            "author": "Samir Daven",
+            "isbn": "9780000000941",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Season of Small Wonders",
+            "author": "Nora Ellery",
+            "isbn": "9780000000958",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Season of Small Wonders",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000000965",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Season of Small Wonders",
+            "author": "Talia Greer",
+            "isbn": "9780000000972",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Season of Small Wonders",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000000989",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Season of Small Wonders",
+            "author": "Amira Lark",
+            "isbn": "9780000000996",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Season of Small Wonders",
+            "author": "Rami Vale",
+            "isbn": "9780000001009",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The City Beyond the Pines",
+            "author": "Mira Ashford",
+            "isbn": "9780000001016",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The City Beyond the Pines",
+            "author": "Omar Bellamy",
+            "isbn": "9780000001023",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The City Beyond the Pines",
+            "author": "Lina Corbett",
+            "isbn": "9780000001030",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The City Beyond the Pines",
+            "author": "Samir Daven",
+            "isbn": "9780000001047",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The City Beyond the Pines",
+            "author": "Nora Ellery",
+            "isbn": "9780000001054",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The City Beyond the Pines",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000001061",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The City Beyond the Pines",
+            "author": "Talia Greer",
+            "isbn": "9780000001078",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The City Beyond the Pines",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000001085",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The City Beyond the Pines",
+            "author": "Amira Lark",
+            "isbn": "9780000001092",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The City Beyond the Pines",
+            "author": "Rami Vale",
+            "isbn": "9780000001108",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Whispering Library",
+            "author": "Mira Ashford",
+            "isbn": "9780000001115",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Whispering Library",
+            "author": "Omar Bellamy",
+            "isbn": "9780000001122",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Whispering Library",
+            "author": "Lina Corbett",
+            "isbn": "9780000001139",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Whispering Library",
+            "author": "Samir Daven",
+            "isbn": "9780000001146",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Whispering Library",
+            "author": "Nora Ellery",
+            "isbn": "9780000001153",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Whispering Library",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000001160",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Whispering Library",
+            "author": "Talia Greer",
+            "isbn": "9780000001177",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Whispering Library",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000001184",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Whispering Library",
+            "author": "Amira Lark",
+            "isbn": "9780000001191",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Whispering Library",
+            "author": "Rami Vale",
+            "isbn": "9780000001207",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "An Ocean Between Worlds",
+            "author": "Mira Ashford",
+            "isbn": "9780000001214",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "An Ocean Between Worlds",
+            "author": "Omar Bellamy",
+            "isbn": "9780000001221",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "An Ocean Between Worlds",
+            "author": "Lina Corbett",
+            "isbn": "9780000001238",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "An Ocean Between Worlds",
+            "author": "Samir Daven",
+            "isbn": "9780000001245",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "An Ocean Between Worlds",
+            "author": "Nora Ellery",
+            "isbn": "9780000001252",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "An Ocean Between Worlds",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000001269",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "An Ocean Between Worlds",
+            "author": "Talia Greer",
+            "isbn": "9780000001276",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "An Ocean Between Worlds",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000001283",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "An Ocean Between Worlds",
+            "author": "Amira Lark",
+            "isbn": "9780000001290",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "An Ocean Between Worlds",
+            "author": "Rami Vale",
+            "isbn": "9780000001306",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Paper Moon Society",
+            "author": "Mira Ashford",
+            "isbn": "9780000001313",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Paper Moon Society",
+            "author": "Omar Bellamy",
+            "isbn": "9780000001320",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Paper Moon Society",
+            "author": "Lina Corbett",
+            "isbn": "9780000001337",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Paper Moon Society",
+            "author": "Samir Daven",
+            "isbn": "9780000001344",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Paper Moon Society",
+            "author": "Nora Ellery",
+            "isbn": "9780000001351",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Paper Moon Society",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000001368",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Paper Moon Society",
+            "author": "Talia Greer",
+            "isbn": "9780000001375",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Paper Moon Society",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000001382",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Paper Moon Society",
+            "author": "Amira Lark",
+            "isbn": "9780000001399",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Paper Moon Society",
+            "author": "Rami Vale",
+            "isbn": "9780000001405",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Where the Wild Stars Grow",
+            "author": "Mira Ashford",
+            "isbn": "9780000001412",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Where the Wild Stars Grow",
+            "author": "Omar Bellamy",
+            "isbn": "9780000001429",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Where the Wild Stars Grow",
+            "author": "Lina Corbett",
+            "isbn": "9780000001436",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Where the Wild Stars Grow",
+            "author": "Samir Daven",
+            "isbn": "9780000001443",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Where the Wild Stars Grow",
+            "author": "Nora Ellery",
+            "isbn": "9780000001450",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Where the Wild Stars Grow",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000001467",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Where the Wild Stars Grow",
+            "author": "Talia Greer",
+            "isbn": "9780000001474",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Where the Wild Stars Grow",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000001481",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Where the Wild Stars Grow",
+            "author": "Amira Lark",
+            "isbn": "9780000001498",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Where the Wild Stars Grow",
+            "author": "Rami Vale",
+            "isbn": "9780000001504",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The House of Falling Leaves",
+            "author": "Mira Ashford",
+            "isbn": "9780000001511",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The House of Falling Leaves",
+            "author": "Omar Bellamy",
+            "isbn": "9780000001528",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The House of Falling Leaves",
+            "author": "Lina Corbett",
+            "isbn": "9780000001535",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The House of Falling Leaves",
+            "author": "Samir Daven",
+            "isbn": "9780000001542",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The House of Falling Leaves",
+            "author": "Nora Ellery",
+            "isbn": "9780000001559",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The House of Falling Leaves",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000001566",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The House of Falling Leaves",
+            "author": "Talia Greer",
+            "isbn": "9780000001573",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The House of Falling Leaves",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000001580",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The House of Falling Leaves",
+            "author": "Amira Lark",
+            "isbn": "9780000001597",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The House of Falling Leaves",
+            "author": "Rami Vale",
+            "isbn": "9780000001603",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Bridge Made of Starlight",
+            "author": "Mira Ashford",
+            "isbn": "9780000001610",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Bridge Made of Starlight",
+            "author": "Omar Bellamy",
+            "isbn": "9780000001627",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Bridge Made of Starlight",
+            "author": "Lina Corbett",
+            "isbn": "9780000001634",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Bridge Made of Starlight",
+            "author": "Samir Daven",
+            "isbn": "9780000001641",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Bridge Made of Starlight",
+            "author": "Nora Ellery",
+            "isbn": "9780000001658",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Bridge Made of Starlight",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000001665",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Bridge Made of Starlight",
+            "author": "Talia Greer",
+            "isbn": "9780000001672",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Bridge Made of Starlight",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000001689",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Bridge Made of Starlight",
+            "author": "Amira Lark",
+            "isbn": "9780000001696",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "A Bridge Made of Starlight",
+            "author": "Rami Vale",
+            "isbn": "9780000001702",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Keeper of Lost Maps",
+            "author": "Mira Ashford",
+            "isbn": "9780000001719",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Keeper of Lost Maps",
+            "author": "Omar Bellamy",
+            "isbn": "9780000001726",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Keeper of Lost Maps",
+            "author": "Lina Corbett",
+            "isbn": "9780000001733",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Keeper of Lost Maps",
+            "author": "Samir Daven",
+            "isbn": "9780000001740",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Keeper of Lost Maps",
+            "author": "Nora Ellery",
+            "isbn": "9780000001757",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Keeper of Lost Maps",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000001764",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Keeper of Lost Maps",
+            "author": "Talia Greer",
+            "isbn": "9780000001771",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Keeper of Lost Maps",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000001788",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Keeper of Lost Maps",
+            "author": "Amira Lark",
+            "isbn": "9780000001795",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Keeper of Lost Maps",
+            "author": "Rami Vale",
+            "isbn": "9780000001801",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Clockmaker's Garden",
+            "author": "Mira Ashford",
+            "isbn": "9780000001818",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Clockmaker's Garden",
+            "author": "Omar Bellamy",
+            "isbn": "9780000001825",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Clockmaker's Garden",
+            "author": "Lina Corbett",
+            "isbn": "9780000001832",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Clockmaker's Garden",
+            "author": "Samir Daven",
+            "isbn": "9780000001849",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Clockmaker's Garden",
+            "author": "Nora Ellery",
+            "isbn": "9780000001856",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Clockmaker's Garden",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000001863",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Clockmaker's Garden",
+            "author": "Talia Greer",
+            "isbn": "9780000001870",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Clockmaker's Garden",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000001887",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Clockmaker's Garden",
+            "author": "Amira Lark",
+            "isbn": "9780000001894",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "The Clockmaker's Garden",
+            "author": "Rami Vale",
+            "isbn": "9780000001900",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Stories from the Far Shore",
+            "author": "Mira Ashford",
+            "isbn": "9780000001917",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Stories from the Far Shore",
+            "author": "Omar Bellamy",
+            "isbn": "9780000001924",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Stories from the Far Shore",
+            "author": "Lina Corbett",
+            "isbn": "9780000001931",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Stories from the Far Shore",
+            "author": "Samir Daven",
+            "isbn": "9780000001948",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Stories from the Far Shore",
+            "author": "Nora Ellery",
+            "isbn": "9780000001955",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Stories from the Far Shore",
+            "author": "Yusuf Fairchild",
+            "isbn": "9780000001962",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Stories from the Far Shore",
+            "author": "Talia Greer",
+            "isbn": "9780000001979",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Stories from the Far Shore",
+            "author": "Karim Hawthorne",
+            "isbn": "9780000001986",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Stories from the Far Shore",
+            "author": "Amira Lark",
+            "isbn": "9780000001993",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Stories from the Far Shore",
+            "author": "Rami Vale",
+            "isbn": "9780000002006",
+            "available": true,
+            "pdf_filename": null
+        },
+        {
+            "title": "Problem Set 1",
+            "author": "Not specified",
+            "isbn": "9780000002013",
+            "available": true,
+            "pdf_filename": "9780000002013 - Problem Set 1.pdf"
+        },
+        {
+            "title": "Problem_Set1",
+            "author": "Mohamed amin",
+            "isbn": "9780000002020",
+            "available": true,
+            "pdf_filename": "9780000002020 - Problem_Set1.pdf"
+        },
+        {
+            "title": "the supreme scripture",
+            "author": "elbokhary",
+            "isbn": "9780000002037",
+            "available": true,
+            "pdf_filename": "9780000002037 - the supreme scripture.pdf"
+        },
+        {
+            "title": "stewart main book",
+            "author": "stewart",
+            "isbn": "9780000002044",
+            "available": true,
+            "pdf_filename": "9780000002044 - stewart main book.pdf"
+        }
+    ],
+    "members": [],
+    "loans": []
+}

@@ -1,0 +1,30 @@
+{
+  "commands": [
+    {
+      "pattern": "can you add l07_assignment.pdf with the path <value>",
+      "tool": "find_and_copy_pdf",
+      "count": 1,
+      "cluster": 0
+    },
+    {
+      "pattern": "can you add l09_assignment.pdf with path <value>",
+      "tool": "find_and_copy_pdf",
+      "count": 1,
+      "cluster": 0
+    }
+  ],
+  "command_clusters": [
+    {
+      "id": 0,
+      "size": 2,
+      "tools": {
+        "find_and_copy_pdf": 2
+      },
+      "examples": [
+        "can you add l07_assignment.pdf with the path <value>",
+        "can you add l09_assignment.pdf with path <value>"
+      ]
+    }
+  ],
+  "verified_answers": []
+}

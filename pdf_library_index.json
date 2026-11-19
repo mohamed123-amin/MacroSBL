@@ -1,0 +1,145 @@
+{
+  "files": {
+    "C:\\Users\\Ahmed.Amin\\OneDrive\\Desktop\\Python and AI\\project3\\library books\\9780000002013 - Problem Set 1.pdf": {
+      "size": 290790,
+      "modified_ns": 1792778136558768700
+    },
+    "C:\\Users\\Ahmed.Amin\\OneDrive\\Desktop\\Python and AI\\project3\\library books\\9780000002020 - Problem_Set1.pdf": {
+      "size": 290790,
+      "modified_ns": 1792778136558768700
+    },
+    "C:\\Users\\Ahmed.Amin\\OneDrive\\Desktop\\Python and AI\\project3\\library books\\9780000002044 - stewart main book.pdf": {
+      "size": 16569630,
+      "modified_ns": 1795070762766372000
+    },
+    "C:\\Users\\Ahmed.Amin\\OneDrive\\Desktop\\Python and AI\\project3\\library books\\L07_assignment.pdf": {
+      "size": 318324,
+      "modified_ns": 1792793234025122600
+    }
+  },
+  "topics": [
+    {
+      "cluster": 0,
+      "keywords": [
+        "earth",
+        "temperature",
+        "climate",
+        "albedo",
+        "greenhouse",
+        "heat"
+      ],
+      "chunk_count": 126,
+      "books": [
+        "9780000002013 - Problem Set 1.pdf",
+        "9780000002020 - Problem_Set1.pdf",
+        "9780000002044 - stewart main book.pdf"
+      ]
+    },
+    {
+      "cluster": 1,
+      "keywords": [
+        "calculus",
+        "problems",
+        "functions",
+        "problem",
+        "students",
+        "exercises"
+      ],
+      "chunk_count": 136,
+      "books": [
+        "9780000002044 - stewart main book.pdf",
+        "L07_assignment.pdf"
+      ]
+    },
+    {
+      "cluster": 2,
+      "keywords": [
+        "function",
+        "figure",
+        "graph",
+        "example",
+        "value",
+        "use"
+      ],
+      "chunk_count": 445,
+      "books": [
+        "9780000002044 - stewart main book.pdf"
+      ]
+    },
+    {
+      "cluster": 3,
+      "keywords": [
+        "h9258",
+        "h9266",
+        "h33527",
+        "sin",
+        "h11001",
+        "cos"
+      ],
+      "chunk_count": 374,
+      "books": [
+        "9780000002044 - stewart main book.pdf"
+      ]
+    },
+    {
+      "cluster": 4,
+      "keywords": [
+        "equation",
+        "rate",
+        "time",
+        "curve",
+        "line",
+        "population"
+      ],
+      "chunk_count": 576,
+      "books": [
+        "9780000002044 - stewart main book.pdf"
+      ]
+    },
+    {
+      "cluster": 5,
+      "keywords": [
+        "h33527",
+        "h20850",
+        "h20849x",
+        "h11001",
+        "h11002",
+        "h20849x h20850"
+      ],
+      "chunk_count": 1447,
+      "books": [
+        "9780000002044 - stewart main book.pdf"
+      ]
+    },
+    {
+      "cluster": 6,
+      "keywords": [
+        "series",
+        "convergent",
+        "test",
+        "sum",
+        "taylor",
+        "power series"
+      ],
+      "chunk_count": 133,
+      "books": [
+        "9780000002044 - stewart main book.pdf"
+      ]
+    },
+    {
+      "cluster": 7,
+      "keywords": [
+        "h11009",
+        "h11080",
+        "h11001",
+        "h20858",
+        "h11080 h11080",
+        "h33527"
+      ],
+      "chunk_count": 333,
+      "books": [
+        "9780000002044 - stewart main book.pdf"
+      ]
+    }
+  ]
+}
